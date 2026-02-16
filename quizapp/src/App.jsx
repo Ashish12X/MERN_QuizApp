@@ -4,7 +4,7 @@ import Home from "./pages/Home";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Login from "./pages/Login";
-import Signup from "./pages/signup";
+import Signup from "./pages/Signup";
 import ForgotPass from "./pages/ForgotPass";
 import Dashboard from "./pages/Dashboard";
 import Member from "./pages/Member";
